@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=960
+
+Vim plugin that asks the user for a string to replace, as well as the string he wants to replace with. By default, the script is called by the <F4> shortcut.
+
